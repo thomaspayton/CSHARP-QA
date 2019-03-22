@@ -28,7 +28,7 @@ Q: What is the scope of a public member of a class?
 what ever is out of the class can still be used 
 
 Q: Can you create a function that can accept a varying number of arguments?
-
+Yes thats a if else statement. 
 
 Q: How do you sort an array?
 catergory of options to pick through by the user
@@ -43,9 +43,16 @@ Q: What is inheritance?
 is the ability to create a class that inherits attributes and behaviors from an existing class.
 
 Q: Is multiple inheritance supported?
+Your class only inherits from a single base class
+
 Q: What is the purpose of as operator?
+You can use the as operator to perform certain types of conversions between compatible reference types or nullable types.
+
 Q: What is the difference between a struct and a class?
+Structs are value type whereas Classes are reference type.
+
 Q: What is the difference between continue and break statements?
+Break statement breaks the loop/switch whereas continue skip the execution of current iteration only 
 
 Q: What is this and how is it used?
 The this keyword refers to the current instance of the class and is also used as a modifier of the first parameter of an extension method.
@@ -57,6 +64,7 @@ Q: How is exception handling done?
  a response to an exceptional circumstance that arises while a program is running
  
 Q: What is finally and what is its purpose?
+By using a finally block, you can clean up any resources that are allocated in a try block, and you can run code even if an exception occurs in the try block.
 
 Q: List the differences between Array and ArrayList.
 For the Array we can only add types that we declare. Array list you can add and rmeove from the list.
@@ -68,6 +76,7 @@ Q: Define constructor.
 Special method of the class which gets automatically whenever an instance of the class is created.
 
 Q: When can var be used to declare a variable and how is the type for the variable determined?
+variables that are declared at method scope can have an implicit "type" var. An implicitly typed local variable is strongly typed just as if you had declared the type yourself, but the compiler determines the type.
 
 Q: What is an abstract class?
 designed to be inherited by subclasses that either implement or override its methods
