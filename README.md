@@ -46,17 +46,26 @@ Q: Is multiple inheritance supported?
 Q: What is the purpose of as operator?
 Q: What is the difference between a struct and a class?
 Q: What is the difference between continue and break statements?
+
 Q: What is this and how is it used?
+The this keyword refers to the current instance of the class and is also used as a modifier of the first parameter of an extension method.
+
 Q: What is try and catch and when are they used?
+The try-catch statement consists of a try block followed by one or more catch clauses, which specify handlers for different exceptions.
+
 Q: How is exception handling done?
+ a response to an exceptional circumstance that arises while a program is running
+ 
 Q: What is finally and what is its purpose?
+
 Q: List the differences between Array and ArrayList.
+For the Array we can only add types that we declare. Array list you can add and rmeove from the list.
 
 Q: What is an object?
-you set this to let the code know you are using it later
+You set this to let the code know you are using it later.
 
 Q: Define constructor.
-special method of the class which gets automatically whenever an instance of the class is created
+Special method of the class which gets automatically whenever an instance of the class is created.
 
 Q: When can var be used to declare a variable and how is the type for the variable determined?
 
