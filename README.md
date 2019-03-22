@@ -34,8 +34,14 @@ Q: How do you sort an array?
 catergory of options to pick through by the user
 
 Q: What is a nullable type and what purpose does it serve?
+nullable types are a feature of the type system of some programming languages which allow the value to be set to the special value NULL instead of the usual possible values of the data type.
+
 Q: What is an enumeration?
+An enumeration is a set of named integer constants. An enumerated type is declared using the enum keyword
+
 Q: What is inheritance?
+is the ability to create a class that inherits attributes and behaviors from an existing class.
+
 Q: Is multiple inheritance supported?
 Q: What is the purpose of as operator?
 Q: What is the difference between a struct and a class?
@@ -53,11 +59,24 @@ Q: Define constructor.
 special method of the class which gets automatically whenever an instance of the class is created
 
 Q: When can var be used to declare a variable and how is the type for the variable determined?
+
 Q: What is an abstract class?
+designed to be inherited by subclasses that either implement or override its methods
+
 Q: What is an interface?
+definitions for a group of related functionalities that a class or a struct 
+
 Q: What is a method?
+ a code block that contains a series of statements.
+ 
 Q: What is a property?
+a member that provides a flexible tool to read and write the value of a private field
+
 Q: What is an access specifier?
 Q: What access specifiers are supported and what do they mean?
+
 Q: What is a collection?
+specialized classes for data storage and retrieval. 
+
 Q: What is a Hash Table?
+represents a collection of key-and-value pairs that are organized based on the hash code of the key
