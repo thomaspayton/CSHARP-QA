@@ -10,7 +10,7 @@ Q: What are reference types?
 two varibles can reference of variable
 
 Q: What is an automatic property and how is it useful?
-when no additional logic is used in the property
+when no other logic is used in the property
 
 Q: What is the purpose of using statement?
 instructions on what and what not to use
